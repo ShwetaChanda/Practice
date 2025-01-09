@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I am shweta
+=======
+hi I am shweta
+hello nice to meet you
+>>>>>>> parent of 2662080 (modifying the text)
