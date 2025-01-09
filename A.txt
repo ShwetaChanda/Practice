@@ -1,10 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 I am shweta
-=======
-hi I am shweta
 hello nice to meet you
->>>>>>> parent of 2662080 (modifying the text)
-=======
-hi I am shweta
->>>>>>> parent of b8926f5 (brought back to original)
